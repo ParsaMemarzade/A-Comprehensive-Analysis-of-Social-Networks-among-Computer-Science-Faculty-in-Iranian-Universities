@@ -1,0 +1,121 @@
+,fullName,fields,jobPosition,Citations,h-index,i10-index,Citations_2018,h-index_2018,i10-index_2018
+0,Mohammad Izadi,"Formal Methods,Verification,Logic in CS and AI,Game Theory,Philosophy of AI","Associate Professor of Computer Engineering, Sharif University of Technology",301,9,9,216,7,5
+1,Raman Ramsin,"Software Engineering,Software Development Methodologies,Method Engineering,Agile Methods,Model-Driven Engineering","Assistant Professor of Computer Science and Engineering, Sharif University of Technology",1137,18,26,404,11,13
+2,farokh marvasti,"Nonuniform Sampling Theory,Machine Learning and Sparse Signal Processing,Iterative Methods for Inverse Systems,Overloaded CDM","Sharif University of Technology, EE and ACRI",6258,38,107,2069,23,50
+3,Hamid R. Rabiee,"Multimedia Networks,Social Networks,Image and Video Processing,Machine Learning,Pattern Recognition","Professor of Computer Engineering, Sharif University of Technology",5959,31,115,3737,25,65
+4,Maziar Goudarzi,"Systems for Big Data Processing,Hardware-Software Co-design,Green Computing",Sharif University of Technology,1057,17,29,600,12,14
+5,Mohammad Ali Abam,Algorithms,Sharif University,478,13,14,207,8,7
+6,MohammadAmin Fazli,"Complex Networks,Data Analysis,Software Engineering,Computational Business & Economics,Operations Research",Sharif University of Technology,258,8,8,182,8,7
+7,Bardia Safaei,"Internet of Things,Wireless Sensor Networks,Mobile Ad-hoc Networks,Fog Computing,VANET","Assistant Professor, Sharif University of Technology, Department of Computer Engineering",326,11,11,323,11,11
+8,Mohsen Ansari,"Cyber-Physical Systems,Robust System Design,Hybrid Dynamical Systems,Real-Time Embedded Systems,Low Power Design","Assistant Professor, Department of Computer Science and Engineering, Sharif University of Technology",284,12,14,276,11,13
+9,Somayyeh Koohi,"Biophotonics,Optical Processing,Optical Communication,Bioinformatics","Associate Professor of Computer Engineering, Sharif University of Technology",539,13,15,223,8,7
+10,Morteza Amini,"Information Security,Database Security and Access Control,Formal Methods and Logics for Security,Intrusion Detection and Aler",Sharif University of Technology,961,16,26,324,10,10
+11,Mahdieh Soleymani Baghshah,"Deep Learning,Machine Learning","Associate Professor, Computer Engineering Department, Sharif University of Technology",1196,20,34,840,17,27
+12,Mohammad Ghodsi,"Algorithms,Computational Geometry","Professor of Computer Science, Sharif University of Technology",1504,18,35,784,12,17
+13,Hossein Asadi,"Storage Systems,Solid-State Drives,Operating Systems,High-Performance Computing,Cloud Computing","Professor, Department of Computer Engineering, Sharif University of Technology",2312,27,56,935,18,36
+14,Hamid Beigy,"Deep Learning,Machine Learning,Data Stream Mining,Information Retrieval,Natural Language Processing",Sharif University of Technology,3133,30,84,1366,19,43
+15,Ali Movaghar,"performance analysis,formal verification,distributed real-time systems,Internet of Things,cyber-physical systems","Professor of Computer Science and Engineering, Sharif University of Technology., Tehran, Iran",5630,33,154,2255,22,76
+16,Alireza Ejlali,"Low Power Design,Fault Tolerance,Embedded Systems","Associate Professor, Department of Computer Engineering, Sharif University of Technology",2664,29,64,1367,21,48
+17,Mehrnoush Shamsfard,"Artificial Intelligence,Natural Language Processing,Persian NLP,Ontology,Semantic Web","Associate Professor of Computer Engineering, Shahid Beheshti University",2209,22,44,962,16,22
+18,Mohsen Ebrahimi Moghaddam,"Image processing,Computer Vision,Operating systems","Professor, Faculty of Computer science and Engineering, Shahid Beheshti University, Iran",2471,25,60,1110,15,30
+19,Ghassem Jaberipur,"Computer Arithmetic,Compiler Construction","Professor for the Brain Pool Program in Chosun University, Gwangju, South Korea, SBU retired",1324,18,41,610,12,17
+20,Hadi Tabatabaee Malazi,"Distributed Systems,Edge Computing,Service Orchestration,Services Computing","Assistant professor, Maynooth University",401,11,12,350,10,10
+21,Mahmood Neshati,"Information Retrieval,Data analytics,Enterprise Search Engine,Business Intelligence","Assistant Professor of Software Engineering, Shahid Beheshti University",665,17,20,440,12,14
+22,Ali Jahanian,"Hardware Security,Biochip Design,DNA Computing",Associate Professor at Shahid Beheshti University,396,9,8,201,7,3
+23,Sadegh Aliakbary,"Complex Networks,Data Mining,Software Engineering",Shahid Beheshti University,321,9,9,235,7,5
+24,Ahmad Ali Abin,"Machine Learning,Pattern Recognition","Faculty of Computer science and Engineering, Shahid Beheshti University",286,11,12,208,9,9
+25,Armin Salimi-Badr,"Computational Intelligence,Cognitive Robotics,Computational Neuroscience","Assistant Professor of Computer Science and Engineering, Shahid Beheshti University",174,8,5,161,8,5
+26,Maedeh Mosharraf,"Semantic Web Technology,Technology Enhanced Learning",Shahid Beheshti University,148,6,3,111,5,2
+27,Raziyeh Salarifard,"Cryptography Engineering,Post Quantum Cryptography","Assistant Professor , Department of Computer Engineering and Science, Shahid Beheshti University",72,4,2,71,4,2
+28,Siamak Mohammadi,"VLSI Digital Design,Computer Architecture,Verification,Hardware Security","Associate Professor of Electrical and Computer Eng., University of Tehran",1300,20,41,510,13,19
+29,Kazim Fouladi,"Artificial Intelligence,Pattern Recognition and Machine Learning,Computer Vision,Multiagent Systems,System Theory","Assistant Professor of Computer Engineering, Faculty of Engineering, College of Farabi, University of Tehran",283,5,4,245,4,3
+30,Masoud Asadpour,"Social Networks,Machine Learning,Bio-Inspired Robotics","Assistant Prof. in AI and Robotics, University of Tehran",2367,23,45,1100,16,27
+31,Heshaam Faili,"Natural Language Processing,Social Network","Full Professor, University of Tehran",1181,18,43,728,13,23
+32,Azadeh Shakery,Text Information Management,"Associate Professor, Electrical and Computer Engineering Department, University of Tehran",1965,21,58,1172,16,36
+33,Behnam Bahrak,,"Assistant Professor, University of Tehran",635,15,16,385,11,12
+34,Fattaneh Taghiyareh,"Multi Agent Systems,Game Based learning,Opinion Formation in Social Networks","Associate Professor, ECE department, University of Tehran",854,15,22,470,10,11
+35,Ehsan Khamespanah,"Formal Methods,Software Architecture","Postdoc, Reykjavik University",541,14,18,395,11,12
+36,Hossein Hojjat,"Formal methods,concurrency,software verification","Assistant Professor, RIT",952,15,19,471,12,14
+37,Ramtin Khosravi,,"Assistant Prof., University of Tehran",651,15,23,269,9,8
+38,ahmad khonsari,"Performance modelling and evaluation,computer networks wireless and wired",associate professor ECE department University of Tehran,1750,20,57,878,15,25
+39,Maseud Rahgozar,"Information Systems,Data Science,Bioinformatics,Human Computer Interaction","Professor of Computer Science, Tehran University",1533,21,36,820,14,17
+40,Fathiyeh Faghih,"Intelligent Software Engineering,Dependable AI,Test",University of Tehran,163,7,5,110,6,4
+41,Mehdi Kargahi,"Cyber-Physical Systems (CPS),Real-Time Systems,Power-Aware Computing,Stochastic Systems,Program Verification","Professor of Computer Engineering, University of Tehran",763,17,25,423,12,18
+42,Reshad Hosseini,"Machine Learning,Machine Vision,Optimization,Computational Neuroscience,Wavelet","Assistant Professor, Machine Learning and Robotics Group, University of Tehran",1218,16,23,826,14,20
+43,Hamid Mahini,"Game Theory,Algorithm Design,Social Network,Optimization",University of Maryland,937,13,15,370,11,13
+44,Rezvan Nasiri,"Bionic,Bio-inspired Robotics,Wearable Robots,Nonlinear Dynamics,Machine Learning",Assistant Professor at University of Tehran,246,8,6,232,8,5
+45,Majid Nili Ahmadabadi,"Reinforcement learning,Social Learning,Cognitive Modeling,Robotics","Professor of ECE, University of Tehran",3611,30,96,1629,21,47
+46,Mohammad Amin Sadeghi,"Computer Vision,Machine Learning",University of Tehran,2383,14,17,1390,12,12
+47,Mehdi Tale Masouleh,"Human-Robot Interaction,Parallel Robots,Humanoids,Artificial Intelligence","Associate Prof., University of Tehran, Electrical and Computer Eng., Human and Robot Interaction Lab",2206,24,68,1439,20,44
+48,Mostafa Tavassolipour,"Statistical Machine Learning,Information Theory,Bioinformatics","Assistant Professor, Tehran University",153,3,2,111,3,2
+49,Abdol-Hossein Vahabie,"Cognitive Neuroscience,Neuroeconomics,Neural Dynamics,Machine Learning,Computational Psychiatry","School of ECE, & Faculty of Psychology, University of Tehran; School of Cognitive Sciences, IPM",326,11,12,264,9,9
+50,Yadollah Yaghoobzadeh,"Natural Language Processing,Deep Learning,Information Extraction",University of Tehran,548,12,13,501,12,12
+51,Reza Safabakhsh,"Computer Vision,Deep Learning","Professor of Computer Engineering, Amirkabir University of Technology",3652,29,62,1842,18,35
+52,Mohammad rahmati,"image processing,pattern recognition","Professor of Computer Engineering, Amirkabir university of Technology",2444,25,52,1211,17,30
+53,Mohammadreza Razzazi,"Algorithm,Compiler,Software Security","Professor of Computer Engineering&IT, AmirKabir University of Technology",513,11,17,192,6,5
+54,Mohammad Mehdi Ebadzadeh,"Deep Reinforcement Learning,Computational Intelligence,Machine Learning,Neuroscience","Professor of Computer Science, Amirkabir University",2385,21,48,1235,16,29
+55,Mehdi Sedighi,"Quantum Computing,Embedded Systems,High Level Synthesis","Professor of Computer Engineering, Amirkabir University of Technology",1279,18,40,566,12,16
+56,Masoud Sabaei,"Computer Networks,Wireless Networks","Associate Professor of Computer Engineering, Amirkabir University of Technology",918,17,33,493,12,18
+57,Mohammadkazem Akbari Fatidehi,"IT,Cloud Computing and Parallel Processing","Professor of CE & IT Dept., Amirkabir University of Technology",1494,18,35,636,13,14
+58,Siavash Khorsandi,computer networks,Amirkabir University of Technology,854,15,27,385,9,6
+59,Mehran S. Fallah,"Information Security,Formal Verification,Game Theory,Programming Languages","Associate Professor of Computer Engineering, Amirkabir University of Technology",623,12,14,373,9,9
+60,Hamid R. Zarandi,"Networks-on-Chip,Reliable System Design,Computer Architectures,Embedded Systems","Associate Professor, Department of Computer Engineering, Amirkabir University of Technology",1395,22,40,488,11,14
+61,Alireza Bagheri,"Graph Algorithms,Computational Geometry,Online Social Networks Analysis,BigData Processing","Associate Prof. of Computer Science, Amirkabir University of Technology",696,14,19,485,13,16
+62,Hamid Reza Shahriari,"Cyber Security,Privacy,Security Analysis,Software security,Database security",Amirkabir University of Technology,1139,14,22,747,12,13
+63,Mahmoud Momtazpour,"Internet of Things,Cloud Computing,Fog Computing,GPU,MPSoC",Amirkabir University of Technology,168,8,8,75,5,2
+64,Saeedeh Momtazi,"Natural Language Processing,Information Retrieval,Web Search,Artificial Intelligence",Associate Professor of Amirkabir University of Technology,852,16,25,655,14,19
+65,Ehsan Nazerfard,"Machine Learning,Deep Learning,Reinforcement Learning,Data Mining",Amirkabir Univ of Tech (AUT) => Sharif Univ of Tech => Washington State University => AUT,512,10,10,310,9,9
+66,Hamed Farbeh,"Memory Architectures,Non-volatile memory,STT-MRAM,Dependability,Cyber-Physical Systems",Amirkabir University of Technology,523,15,22,437,14,19
+67,Amir Kalbasi,"Software Performance,Scheduling,Operations Research,Cloud and Distributed Systems,Traced Based Simulation","Assistant Professor of Computer Engineering Department, Amirkabir University of Technology",171,7,6,42,4,1
+68,Mostafa Haghir Chehreghani,"Data science,machine learning,graph algorithms",Amirkabir University of Technology (Tehran Polytechnic),603,12,13,358,9,9
+69,Hossein Zeinali,"Speaker Recognition,Speech Processing,Biometrics","Assistant Professor, Amirkabir University of Technology",979,17,22,904,16,21
+70,Seyyed Ahmad Javadi,"The Internet of Things,Cloud Computing,Performance Analysis","Assistant Professor, Amirkabir University of Technology",161,7,6,139,7,5
+71,Parham Moradi,"Machine Learning,Data Science,Deep Learning,Recommender systems,Social Network Analysis","Department of Computer Engineering, Faculty of Engineering, University of Kurdistan, Sanandaj, Iran",3579,28,49,2985,25,42
+72,Fardin Akhlaghian Tab,"Machine Learning,Pattern Recognition,Computer Vision,Image Processing","Department of Computer Engineering, Faculty of Engineering, University of Kurdistan, Sanandaj, Iran",1824,22,36,1109,16,22
+73,Fatemeh Daneshfar,"Natural Language Processing,Speech Processing,Machine learning","Department of Computer Engineering, Faculty of Engineering, University of Kurdistan, Sanandaj",720,11,11,354,9,8
+74,Alireza Abdollahpouri,"Computer networks,IPTV,Influence Maximization,GNN","Dept. of Computer, Faculty of Engineering, University of Kurdistan, Sanandaj, Iran",625,12,15,518,9,9
+75,Sadoon Azizi,"Cloud Computing,Edge/Fog Computing,Internet of Things,Distributed Systems","Department of Computer Engineering and IT, Faculty of Engineering, University of Kurdistan, Sanandaj",322,10,10,308,9,9
+76,Mohsen Ramezani,"Recommender systems,Action Retrieval,Clustering","Department of computer science, University of Kurdistan, Sanandaj, Iran.",211,6,6,167,6,5
+77,Sadegh Sulaimany,"Network biology,Graph Mining,Web mining,Network Science,Link Prediction","Department of Computer Engineering, Faculty of Engineering, University of Kurdistan, Sanandaj, Iran",151,5,5,141,5,4
+78,Shahin Salavati,"Information Retrieval,Text Processing,Computational Linguistics.",University of Kurdistan,119,6,6,85,6,4
+79,Kayvan Ghaderi,"Artificial Intelligence,Image Processing,Machine Learning,Higher Education","Ph.D. Student in Development Planning of Higher Education | University of Kurdistan, Sanandaj",194,4,2,176,4,1
+80,Rojiar Pir Mohammadiani,"Machine Learning,Information System,Social Network Analysis,Data  Mining,Business Analytics","Department of Computer Engineering, Faculty of Engineering, University of Kurdistan",123,4,4,122,4,4
+81,Mohammad Abdollahi Azgomi,"Modeling and Simulation,Petri Nets,Quantitative Evaluation,Security and Privacy,Trust Models","Professor of Computer Engineering, Iran University of Science and Technology",2029,24,60,1048,20,32
+82,Mohsen Sharifi,"Distributed Systems,High Performance Computing,System Software,Cloud and Grid Computing,Complex Event Processing","Professor of System Software Engineering, Iran University of Science and Technology",3146,24,87,1011,13,26
+83,Behrouz Minaei-Bidgoli,"Data Mining,Natural Language Processing,Machine Learning","Associate Professor, School of Computer Engineering, Iran University of Science and Technology",6615,41,130,3569,34,80
+84,ahmad akbari,"computer networks,signal and data processing,Network security","Professor of computer engineering, Iran university of science and technology",1435,20,45,556,12,19
+85,Saeed Parsa,"Software Testing,Compiler Design,Software Engineering,Reverse Engineering","Professor of computer science, Iran University of Science and Technology",1531,19,46,816,15,25
+86,Amir Mahdi Hosseini Monazzah,"Emerging Non-Volatile On-Chip Memories,IoT,Fault Tolerant System Design,Embedded System Design","Assistant Professor, Iran University of Science and Technology",605,16,23,548,15,22
+87,Nasser Mozayani,"Artificial Intelligence,Multi-agent systems,Machine Learning",Iran University of Science and Technology,1694,19,37,918,14,17
+88,Mohsen Soryani,"Image & Video Processing,Medical Image Processing,Computer Vision,Remote Sensing,Pattern Recognition.",Associate Professor at Iran university of science and technology,1328,18,34,762,15,20
+89,Morteza Analoui,"Artificial Intelligence,Optimization,Networking","Associate Professor of Computer Engineering, Iran University of Science and Technology",1285,20,42,470,10,10
+90,Mohammad Reza Kangavari,"Machine Learning,Data Mining","Associate Professor,School of Computer Engineering, Iran University of Science and Technology",823,14,24,422,11,15
+91,Hakem Beitollahi,"Real-time Embedded Systems,Hardware accelerators,Reconfigurable Computing,Hardware Security,Network Security",Iran University of Science and Technology (IUST),816,16,25,346,10,11
+92,Reza Entezari-Maleki,"Performance Evaluation,Distributed Systems,Cloud Computing,Modeling and Simulation","Assistant Professor, Iran University of Science and Technology",1061,16,24,564,11,15
+93,Vesal Hakami,"Computer Networks,Wireless Communications,Game Theory,Mathematical Optimization,Reinforcement Learning","Assistant Professor, Iran University of Science and Technology",348,12,15,306,12,14
+94,Eisa Zarepour,Iran University of Science & Technology,Assistant Professor,299,12,13,166,8,7
+95,Zeinab Movahedi,"computer Networks,Distributed Systems","Assistant Professor, IUST",561,11,13,350,9,7
+96,Mehrdad Ashtiani,"Social Computing,Cloud computing,Modeling and Simulation","Assistant Professor, Iran University of Science and Technology",337,10,11,268,10,11
+97,hassan naderi,"Big data,software qualification,information retrieval,big graph processing","Assistant Professor of Computer Science, Iran University of Science and Technology (IUST)",310,9,9,193,8,5
+98,Abolfazl Diyanat,"Mobile network,Wireless communication network","Computer Network Group, Computer Engineering Department, Iranian University of Science and",440,6,5,349,5,4
+99,Eynollah Khanjari,Knowledge Discovery & Data Analysis,Iran University of Science and Technology,81,6,5,55,4,3
+100,Hamid Abrishami Moghaddam,"Pattern Recognition,Machine Vision,Image Processing","Professor of Biomedical Engineering, K.N. Toosi University of Technology",3115,28,69,1311,20,39
+101,Mehdi Esnaashari,"Wireless Networks,Evolutionary Computing,Software Testing,RL-based Software Engineering,Learning Automata","K. N. Toosi University of Technology (ROR 0433abe34), Tehran, Iran",1084,19,34,689,15,29
+102,Babak Nasersharif (ORCID:0000-0002-8098-6222),"Deep Learning,Speech Signal Processing,Speech Recognition,Pattern Recognition,Self-suprevised Representation Learning","K.N.Toosi University of Technology (ROR 0433abe34),Tehran, Iran",512,13,19,246,9,8
+103,Ali Ahmadi,"Artificial intelligence,semantic data mining,search engines,deep learning,virtual reality",Associate Professor in K. N.Toosi University of Technology,615,15,19,341,9,9
+104,Saeed Sedighian Kashi,"Software Engineering,Distributed Systems,Sensor Networks,Business Process,Cloud Computing",K. N. Toosi University of Technology,467,12,15,287,9,9
+105,mehdi zamanian,"MEMS,Nonlinear vibration,Drill string","Associate Professor of Mechanical Engineering, Kharazmi University, Tehran, Iran",527,12,18,302,10,12
+106,Masoud Dehyadegari,Many-core architecture - Embedded System Design  - Network-on-chip,K. N. Toosi University of Technology,465,11,11,142,7,3
+107,Abdorasoul Ghasemi,"Networked systems,Intelligent-resilient networks,ML and Optimization","Faculty of Computer Engineering, K.N. Toosi University of Technology",426,12,14,294,9,9
+108,Saeed Farzi,"machine translation,machine learning,natural language processing,information retrieval",K. N. Toosi University of Technology,333,10,11,199,8,6
+109,Amir Mousavinia,"Image processing,Computer vision,SignalProcessing",K.N. Toosi University of Technology,162,8,7,97,6,3
+110,Seyed Hossein Khasteh,"Machine Learning,Social Networks,Big Data,Distributed Systems,Evolutionary Computing",K. N. Toosi University of Technology,219,9,9,152,7,4
+111,chitra dadkhah,"Evolutionary  Algorithms,Swarm Intelligence,Natural Language Processing,Recommender Systems,Robotic(simulation)","Assistant Professor of Computer Engineering, K.N.Toosi university of Technology-IRAN",519,11,12,267,9,8
+112,Athena Abdi,"Embedded Systems,Reliable System Design,Multi-objective Optimization,Computer Architecture","Assistant Professor, Faculty of Computer Engineering, K. N. Toosi University of Technology",133,8,6,97,7,3
+113,Behrooz Nasihatkon,Computer Vision,K. N. Toosi University of Technology,266,7,5,140,6,5
+114,Hossein Shafiei,"Security,Privacy",Institute for Research in Fundamental Sciences (IPM),315,8,6,224,6,4
+115,Hoda Roodaki,Video Processing and Compression,Assistant Professor at K. N. Toosi University of Technology,84,5,2,35,3,1
+116,Farnaz Sheikhi,"Algorithms,Computational Geometry,Graph Theory,Separability,Bichromatic Point Sets","Assistant Professor, K. N. Toosi University of Technology (ROR 0433abe34), Tehran, Iran",74,6,2,46,4,2
+117,Yousef Darmani,Wired & Wireless networks,"Associate Prof., Faculty of Computer Engineering, K. N. Toosi University of Technology",84,5,3,59,4,2
+118,Hamed Khanmirza,"Distributed Systems,IoT,Computer Networks,SDN",K.N. Toosi University of Technology,27,2,0,13,2,0
+119,Mohammadhadi Alaeiyan,"Malware Behavior,Malware Detection,Security","Faculty of Computer engineering, K. N. Toosi University of Technology",110,5,5,106,5,4
