@@ -1,5 +1,5 @@
 
-# Scrape data and find relations between professors in Google Scholar
+# A Comprehensive Analysis of Social Networks among Computer Science Faculty in Iranian Universities
 
 It's my bachelor's project under the supervision of Dr. Parham Moradi. 
 My purpose at first was to mine all data from the Google Scholar pages of each professor which it can be used for any link of any one.
